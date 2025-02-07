@@ -12,3 +12,10 @@
   --font-primary: "Roboto", serif;
   --font-secondary: "Raleway", serif;
 }
+body {
+  font-family: var(--font-primary);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.35;
+  color: var(--primary-text-color);
+}
